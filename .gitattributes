@@ -18,4 +18,5 @@ print ("This is the abbrevation of message "+string[a] + string[b]+ string[c]+ s
 
 print()
 
+
  
