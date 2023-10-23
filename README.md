@@ -1,21 +1,7 @@
-import string
-print()
-string = "welcome to the test page of scripting language"
-print (string.title())
-
-a= 0
-b=8
-c=11
-d=15
-e=20
-f=25
-g=28
-h=38
-
-
-
-print ("This is the abbrevation of message "+string[a] + string[b]+ string[c]+ string[d]+string[e]+ string[f]+ string[g]+string[h])
-
-print()
-
- 
+importing string variable
+print a space
+assigns the string variable
+prints the captial of the beginning of each world from the string variable
+assins intergers to values
+print a message that prints string array of the first of every word
+print a space
